@@ -84,4 +84,8 @@ img{
 
     margin: var(--margin);
 }
+#playStrinova{
+    width: 40vh;
+    height: auto;
+}
 
